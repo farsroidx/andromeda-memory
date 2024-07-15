@@ -1,8 +1,8 @@
-# Andromeda-Core ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+# Andromeda-Memory-Cache ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 A library for using pre-built codes
 
-> ![GitHub repo size](https://img.shields.io/github/repo-size/farsroidx/andromeda-core)
+> ![GitHub Repo Size](https://img.shields.io/github/repo-size/farsroidx/andromeda-memory-cache)
 
 ### Installation:
 
@@ -35,19 +35,19 @@ dependencyResolutionManagement {
 
 #### 2. Copy the following line in section `dependencies` in file `build.gradle` of module `app` and replace it with `LATEST_VERSION` according to the latest version in the repository:
 
-### LATEST_VERSION: [![](https://jitpack.io/v/farsroidx/andromeda-core.svg)](https://jitpack.io/#farsroidx/andromeda-core)
+### LATEST_VERSION: [![](https://jitpack.io/v/farsroidx/andromeda-memory-cache.svg)](https://jitpack.io/#farsroidx/andromeda-memory-cache)
 
 ##### in `build.gradle`:
 ```groovy
 dependencies {
-    implementation 'com.github.farsroidx:andromeda-core:🔝LATEST_VERSION🔝'
+    implementation 'com.github.farsroidx:andromeda-memory-cache:🔝LATEST_VERSION🔝'
 }
 ```
 
 ##### in `build.gradle.kts`:
 ```kotlin
 dependencies {
-    implementation("com.github.farsroidx:andromeda-core:🔝LATEST_VERSION🔝")
+    implementation("com.github.farsroidx:andromeda-memory-cache:🔝LATEST_VERSION🔝")
 }
 ```
 
